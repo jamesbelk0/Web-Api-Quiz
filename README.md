@@ -8,7 +8,10 @@ https://github.com/jamesbelk0/Web-Api-Quiz
 https://jamesbelk0.github.io/Web-Api-Quiz/
 
 ## Link to screenshot:
-![Image of live site.](/assets/images/Image-of-live-site.png "Image of live site.")
+![Image of live site.](./assets/images/start.png "Image of live site.")
+![Image of live site.](./assets/images/question.png "Image of live site.")
+![Image of live site.](./assets/images/enter-initials.png "Image of live site.")
+![Image of live site.](./assets/images/high-score.png "Image of live site.")
 
 ### Description
 
